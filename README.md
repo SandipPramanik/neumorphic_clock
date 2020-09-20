@@ -1,4 +1,4 @@
-# neumorphicclock
+# Neumorphic Clock
 
 Neumorphic designed clock developed using Flutter.
 
